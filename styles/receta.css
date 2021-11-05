@@ -1,0 +1,24 @@
+/****                       Hoja de estilo e la receta de cocina                    *******/
+
+body {background-image: url("../images/red-checkered-tablecloth-texture-background_88281-3142.jpg");
+    font-family: 'Hind', sans-serif;}
+
+#container {width: 80%;
+            background-color: white;
+            margin: auto;
+            padding: 2%;
+
+
+
+}
+
+#container h1 {text-align: center;}
+
+#container h2 {background-color: #7CA5BB;
+                padding-left: 10px;}
+
+#container dl dt {font-weight: bold;}
+
+
+#container iframe {display:block;
+                    margin:auto}
